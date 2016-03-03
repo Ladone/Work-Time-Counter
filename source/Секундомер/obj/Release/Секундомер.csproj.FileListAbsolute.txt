@@ -1,0 +1,17 @@
+C:\Users\vladon\Desktop\Мои файлы\C#\Секундомер\Секундомер\Секундомер\bin\Release\Секундомер.exe.config
+C:\Users\vladon\Desktop\Мои файлы\C#\Секундомер\Секундомер\Секундомер\bin\Release\Секундомер.exe
+C:\Users\vladon\Desktop\Мои файлы\C#\Секундомер\Секундомер\Секундомер\bin\Release\Секундомер.pdb
+C:\Users\vladon\Desktop\Мои файлы\C#\Секундомер\Секундомер\Секундомер\obj\Release\Секундомер.csprojResolveAssemblyReference.cache
+C:\Users\vladon\Desktop\Мои файлы\C#\Секундомер\Секундомер\Секундомер\obj\Release\Секундомер.Form1.resources
+C:\Users\vladon\Desktop\Мои файлы\C#\Секундомер\Секундомер\Секундомер\obj\Release\Секундомер.Properties.Resources.resources
+C:\Users\vladon\Desktop\Мои файлы\C#\Секундомер\Секундомер\Секундомер\obj\Release\Секундомер.csproj.GenerateResource.Cache
+C:\Users\vladon\Desktop\Мои файлы\C#\Секундомер\Секундомер\Секундомер\obj\Release\Секундомер.exe
+C:\Users\vladon\Desktop\Мои файлы\C#\Секундомер\Секундомер\Секундомер\obj\Release\Секундомер.pdb
+C:\Users\vladon\Desktop\Мои файлы\C#\TimeWorkCounter\TimeWorkCounter\Секундомер\bin\Release\WorkTimeCounter.exe.config
+C:\Users\vladon\Desktop\Мои файлы\C#\TimeWorkCounter\TimeWorkCounter\Секундомер\bin\Release\WorkTimeCounter.exe
+C:\Users\vladon\Desktop\Мои файлы\C#\TimeWorkCounter\TimeWorkCounter\Секундомер\bin\Release\WorkTimeCounter.pdb
+C:\Users\vladon\Desktop\Мои файлы\C#\TimeWorkCounter\TimeWorkCounter\Секундомер\obj\Release\WorkTimeCounter.Properties.Resources.resources
+C:\Users\vladon\Desktop\Мои файлы\C#\TimeWorkCounter\TimeWorkCounter\Секундомер\obj\Release\Секундомер.csproj.GenerateResource.Cache
+C:\Users\vladon\Desktop\Мои файлы\C#\TimeWorkCounter\TimeWorkCounter\Секундомер\obj\Release\WorkTimeCounter.exe
+C:\Users\vladon\Desktop\Мои файлы\C#\TimeWorkCounter\TimeWorkCounter\Секундомер\obj\Release\WorkTimeCounter.pdb
+C:\Users\vladon\Desktop\Мои файлы\C#\TimeWorkCounter\TimeWorkCounter\Секундомер\obj\Release\TimeWorkCounter.Form1.resources
